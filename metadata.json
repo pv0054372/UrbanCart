@@ -1,0 +1,7 @@
+{
+  "name": "Urban Cart",
+  "description": "A feature-rich e-commerce platform featuring AI-powered shopping assistance, real-time price history analysis, and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
